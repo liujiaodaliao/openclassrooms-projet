@@ -370,6 +370,12 @@ header .menu .buttons li a:active {
   margin: 0.5rem 0 0.5rem;
 }
 
+.hebergements-cards .card-rating{
+  height: 13px;
+  line-height: 13px;
+}
+
+
 /****** Populaires ***********/
 .populaires {
   width: 32%;
