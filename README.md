@@ -1,2 +1,2 @@
 # openclassrooms-projet
-code parcours
+code booki-starter-pack
