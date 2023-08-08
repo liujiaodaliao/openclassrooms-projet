@@ -370,12 +370,6 @@ header .menu .buttons li a:active {
   margin: 0.5rem 0 0.5rem;
 }
 
-.hebergements-cards .card-rating{
-  height: 13px;
-  line-height: 13px;
-}
-
-
 /****** Populaires ***********/
 .populaires {
   width: 32%;
@@ -390,18 +384,19 @@ header .menu .buttons li a:active {
 .populaires-cards .card {
   display: flex;
   margin-top: 2.063rem;
+  justify-content: space-between;
 }
 
 .populaires-cards img {
-  width: 33%;
+  width: 34.7%;
   height: 8.5rem;
   border-top-left-radius: 1.25rem;
   border-bottom-left-radius: 1.25rem;
 }
 
 .populaires-cards .card-content {
-  width: 67%;
-  padding-left: 0.938rem;
+  width: 14.125rem;
+  margin-left: 0.938rem;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -409,7 +404,7 @@ header .menu .buttons li a:active {
 }
 
 .populaires-cards .card-title {
-  margin-top: 0.625rem;
+  margin-top: 5px;
   margin-bottom: 5px;
 }
 
