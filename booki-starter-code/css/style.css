@@ -395,7 +395,7 @@ header .menu .buttons li a:active {
 }
 
 .populaires-cards .card-content {
-  width: 14.125rem;
+  width: 67%;
   margin-left: 0.938rem;
   display: flex;
   flex-direction: column;
